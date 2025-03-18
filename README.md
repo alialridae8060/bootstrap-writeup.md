@@ -13,7 +13,31 @@
 ### <li>The purpose for giving a div multiple col classes in example col-md-6 and col-xxl-3 is to program a code for responsive layout in the website that would allow the website to adapt to different screen and device sizes either like my iphone 15 or my school issued Chromebook or the smart boards in school.</li>
 ### <li>A container can be inside a container-fluid in website programming and coding.</li>
 ###  </ul>
-### The first five of bootstrap were easy.The next are the gridpractices for the componets 
+### The first five of bootstrap were easy.The next are the gridpractices for the componets which were all hard to complete but I was able to get through non the less here are the code pieces of all the challenges.
+
+### First the bootstrap-grid-practice:
+
+### <ul>
+### <li>  <h1>You hungry for what ?</h1>
+       <div class="containerfluid">
+
+            <div class="container">
+             .container{
+                background-color:darkblue;
+                border: 1px;
+             }
+                <div class="rows">
+                    <div class=col-xs-2 col-sm-4 col-md-6 col-lg-8 col-xl-10 col-xxl-12> Chicken</div>
+                    <div class=col-xs-2 col-sm-4 col-md-6 col-lg-8 col-xl-10 col-xxl-12> Burgers</div>
+                    <div class=col-xs-2 col-sm-4 col-md-6 col-lg-8 col-xl-10 col-xxl-12> Boneless wings</div>
+                    <div class=col-xs-2 col-sm-4 col-md-6 col-lg-8 col-xl-10 col-xxl-12> Chicken pot pie</div>
+                    <div class=col-xs-2 col-sm-4 col-md-6 col-lg-8 col-xl-10 col-xxl-12> Your wife's cooking</div>
+                    </div class>
+                </div class="container">
+            </div class="containerfluid"> 
+### </li>
+
+
 
 
 
